@@ -58,3 +58,15 @@ AWS is a suitable choice because it provides highly available and scalable infra
 - Amazon RDS – Managed relational database
 - Amazon CloudFront – Global content delivery
 - Elastic Load Balancing – Distributes traffic across servers
+
+
+# Multi-Cloud Decision Matrix
+
+| **Business Requirement** | **Recommended Platform** | **Justification** |
+|---|---|---|
+| Startup Company | AWS | Affordable, flexible, and easy to scale. |
+| Enterprise Organization | AWS | Reliable, secure, and supports large businesses. |
+| Microsoft Environment | Azure | Works well with Microsoft products. |
+| AI / Machine Learning | GCP | Strong AI and Machine Learning tools. |
+| Kubernetes Deployment | GCP | GKE makes Kubernetes easier to manage. |
+| Global Web Application | AWS | Global infrastructure with strong scalability. |
