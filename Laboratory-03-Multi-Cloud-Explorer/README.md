@@ -36,4 +36,7 @@ These cloud services provide virtual machines that can run Linux operating syste
 
 ## Screenshot
 
-![KillerCoda Terminal](screenshots/killercoda-terminal.png)
+<img width="1352" height="721" alt="image" src="https://github.com/user-attachments/assets/acc66e6c-ed9e-46cc-9e04-7616ac519187" />
+<img width="1362" height="718" alt="image" src="https://github.com/user-attachments/assets/757ea023-9abd-431b-aff6-65bedebcdde4" />
+
+
